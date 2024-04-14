@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "discord-audio-bot",
+  "version": "0.1.0",
+  "author": "Mehul",
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/voice": "^0.16.1",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2",
+    "node-opus": "^0.3.3",
+    "opusscript": "^0.0.8",
+    "soundcloud-downloader": "^1.0.0",
+    "ytdl-core": "^4.11.5"
+  }
+}
